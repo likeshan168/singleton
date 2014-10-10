@@ -1,0 +1,4 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\Singleton\Singleton\bin\Debug\Singleton.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\Singleton\Singleton\obj\Debug\Singleton.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\Singleton\Singleton\obj\Debug\Singleton.pdb
